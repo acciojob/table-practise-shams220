@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+table{
+	border:grey 2px inset;
+	font-size:2rem;
+	
+background-color:#ffff00;
+
+}
+th,td{
+	text-align:left;
+		border:grey 2px inset;
+}
